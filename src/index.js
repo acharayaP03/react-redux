@@ -33,4 +33,3 @@ render(
   </Provider>,
   document.getElementById('react-container')
 )
- foo = bar
